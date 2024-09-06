@@ -1,0 +1,29 @@
+a.
+
+Lógica: A sequência aumenta de 2 em 2, ou seja, números impares consecutivos.
+Próximo número: 9.
+
+b.
+
+Lógica: A sequência é de potências de 2.
+Próximo elemento: 128 ou 2^7.
+
+c.
+
+Lógica: A sequência é composta por quadrados dos números inteiros consecutivos.
+Próximo elemento: 49 ou 7^2.
+
+d.
+
+Lógica: A sequência são os quadrados dos números pares.
+Próximo elemento: 100 ou 10^2.
+
+e.
+
+Lógica: Sequência de Fibonacci, onde cada número é a soma dos dois anteriores.
+Próximo elemento: 13, no caso 5+8.
+
+f.
+
+Lógica: São números inteiros que começam com a letra D.
+Próximo elemento: 200, Duzentos.
